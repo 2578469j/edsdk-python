@@ -116,3 +116,8 @@ dependencies/*
 !**.gitkeep
 
 .vscode
+capture_*
+*.JPG
+*.jpg
+*.png
+*.7z

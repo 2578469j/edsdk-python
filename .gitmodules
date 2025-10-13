@@ -1,0 +1,3 @@
+[submodule "external/3DScans"]
+	path = external/3DScans
+	url = https://github.com/2578469j/3DScans.git
