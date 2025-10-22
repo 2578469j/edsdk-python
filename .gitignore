@@ -121,3 +121,11 @@ capture_*
 *.jpg
 *.png
 *.7z
+.env
+
+# macOS specific
+*.dmg
+*.dmg.out
+*.img
+__MACOSX/
+*.Zone.Identifier

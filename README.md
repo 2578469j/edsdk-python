@@ -2,9 +2,15 @@
 
 Python wrapper for Canon EOS Digital Software Development Kit, aka EDSDK.
 
-Currently, it supports Windows only. But it shouldn't be difficult to adapt it for macOS.
+**Supported Platforms:**
+- Windows (fully supported)
+- macOS (supported - see [MACOS_SETUP.md](MACOS_SETUP.md) for setup instructions)
 
 # How to build
+
+**Note for macOS users:** Please refer to [MACOS_SETUP.md](MACOS_SETUP.md) for detailed macOS-specific setup instructions.
+
+The instructions below are primarily for Windows. For macOS, the process is similar but uses frameworks instead of DLLs.
 
 ## Obtain the EDSDK from Canon
 
